@@ -4,9 +4,9 @@ mkdir /opt/ANDRAX/evilginx2
 
 make
 
-strip bin/evilginx2
+strip bin/evilginx
 
-cp -Rf bin/evilginx2 /opt/ANDRAX/evilginx2
+cp -Rf bin/evilginx /opt/ANDRAX/evilginx2
 
 cp -Rf phishlets /opt/ANDRAX/evilginx2
 
