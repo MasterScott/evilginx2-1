@@ -6,7 +6,7 @@ make
 
 strip bin/evilginx
 
-cp -Rf bin/evilginx /opt/ANDRAX/evilginx2
+cp -Rf bin/evilginx /opt/ANDRAX/evilginx2/evilginx2
 
 cp -Rf phishlets /opt/ANDRAX/evilginx2
 
